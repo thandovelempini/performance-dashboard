@@ -1,5 +1,7 @@
 # Premier League Performance Dashboard
 
+![Premier League Performance Dashboard](images/dashboard.png)
+
 ## Project Overview
 
 This project analyses Premier League team performance and uses historical data and machine learning to estimate team success based on key performance metrics.
