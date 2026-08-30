@@ -4,8 +4,4 @@ __pycache__/
 .venv/
 venv/
 .env
-git rm --cached .DS_Store
-git rm --cached data/.DS_Store
-git add .gitignore
-git commit -m "Add gitignore and remove system files"
-git push
+
