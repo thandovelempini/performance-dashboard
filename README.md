@@ -37,7 +37,8 @@ src/git
 ├── 01_data_cleaning.py
 ├── 02_exploratory_analysis.py
 ├── 03_model_development.py
-└── 04_current_season_analysis.py
+├── 04_current_season_analysis.py
+└── 05_expected_performance_analysis.py
 
 .gitignore
 requirements.txt
