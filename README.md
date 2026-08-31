@@ -1,12 +1,16 @@
-# Premier League Performance Dashboard
+# Premier League Performance Dashboard | 2026/27 Season
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Premier League Performance Dashboard](images/dashboard-overview.png)
 
 ## Project Overview
 
-This project analyses Premier League team performance and uses historical data and machine learning to estimate team success based on key performance metrics.
+This project analyses Premier League team performance during the 2026/27 season and uses historical data and machine learning to estimate team success based on key performance metrics.
 
 The project compares current team performance against historical performance baselines and estimates predicted points per match and predicted season points. The results are presented in a Power BI dashboard.
+
+## Season
+
+**Analysis Season:**  2026/27 Premier League Season
 
 ## Research Question
 
