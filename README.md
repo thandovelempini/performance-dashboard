@@ -1,6 +1,6 @@
 # Premier League Performance Dashboard
 
-![Premier League Performance Dashboard](images/dashboard.png)
+![Dashboard Overview](images/dashboard-overview.png)
 
 ## Project Overview
 
