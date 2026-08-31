@@ -28,11 +28,12 @@ Which team performance metrics are most associated with Premier League success, 
 
 ## Project Structure
 
+```text
 data/
 ├── raw/
 └── processed/
 
-src/
+src/git
 ├── 01_data_cleaning.py
 ├── 02_exploratory_analysis.py
 ├── 03_model_development.py
@@ -41,6 +42,7 @@ src/
 .gitignore
 requirements.txt
 README.md
+```
 
 ## Updates 
 
