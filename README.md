@@ -28,7 +28,6 @@ Which team performance metrics are most associated with Premier League success, 
 
 ## Project Structure
 
-```text
 data/
 ├── raw/
 └── processed/
@@ -42,3 +41,14 @@ src/
 .gitignore
 requirements.txt
 README.md
+
+## Updates 
+
+This project will be updated weekly throughout the 2026/27 Premier League season as new match results and team performance data become available. Predictions and Power BI dashboard insights will be refreshed to reflect the latest available data.
+
+## Future Improvements 
+
+- Automate data updates
+- Compare additional machine learning models
+- Include additional performance metrics
+- Improve prediction accuracy as more current-season data becomes available
